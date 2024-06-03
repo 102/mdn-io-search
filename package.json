@@ -2,7 +2,7 @@
   "name": "mdn-io-search",
   "displayName": "mdn.io Search",
   "description": "mdn web docs search powered by mdn.io",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.89.0"
   },
